@@ -2,221 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fecdb35-2b00-43c7-9d91-a04ed86743b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/05/components/Main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/05/components/PhotoGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/05/components/Single.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/05/reduxstagram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/05/styles/_animations.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/05/styles/_normalize.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/05/styles/_typography.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/05/styles/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06/components/Main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06/components/PhotoGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06/components/Single.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06/data/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06/data/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06/data/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06/reduxstagram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06/styles/_animations.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06/styles/_normalize.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06/styles/_typography.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06/styles/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/07/actions/actionCreators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/07/components/Main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/07/components/PhotoGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/07/components/Single.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/07/data/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/07/data/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/07/data/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/07/reduxstagram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/07/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/07/styles/_animations.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/07/styles/_normalize.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/07/styles/_typography.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/07/styles/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/actions/actionCreators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/components/Main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/components/PhotoGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/components/Single.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/data/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/data/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/data/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/reducers/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/reducers/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/reducers/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/reduxstagram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/styles/_animations.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/styles/_normalize.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/styles/_typography.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08/styles/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/actions/actionCreators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/components/Main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/components/PhotoGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/components/Single.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/data/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/data/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/data/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/reducers/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/reducers/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/reducers/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/reduxstagram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/styles/_animations.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/styles/_normalize.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/styles/_typography.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/10/styles/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/actions/actionCreators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/components/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/components/Comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/components/Main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/components/Photo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/components/PhotoGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/components/Single.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/data/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/data/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/data/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/reducers/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/reducers/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/reducers/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/reduxstagram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/styles/_animations.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/styles/_normalize.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/styles/_typography.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/13/styles/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/actions/actionCreators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/components/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/components/Comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/components/Main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/components/Photo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/components/PhotoGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/components/Single.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/data/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/data/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/data/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/reducers/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/reducers/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/reducers/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/reduxstagram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/styles/_animations.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/styles/_normalize.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/styles/_typography.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/14/styles/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/actions/actionCreators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/components/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/components/Comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/components/Main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/components/Photo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/components/PhotoGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/components/Single.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/data/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/data/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/data/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/reducers/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/reducers/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/reducers/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/reduxstagram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/styles/_animations.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/styles/_normalize.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/styles/_typography.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/15/styles/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/actions/actionCreators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/components/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/components/Comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/components/Main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/components/Photo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/components/PhotoGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/components/Single.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/data/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/data/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/data/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/reducers/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/reducers/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/reducers/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/reduxstagram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/styles/_animations.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/styles/_normalize.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/styles/_typography.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16/styles/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/actions/actionCreators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/components/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/components/Comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/components/Main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/components/Photo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/components/PhotoGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/components/Single.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/data/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/data/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/data/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/reducers/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/reducers/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/reducers/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/reduxstagram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/styles/_animations.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/styles/_normalize.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/styles/_typography.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/17/styles/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/actions/actionCreators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/components/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/components/Comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/components/Main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/components/Photo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/components/PhotoGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/components/Single.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/data/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/data/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/data/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/reducers/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/reducers/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/reducers/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/reduxstagram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/styles/_animations.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/styles/_normalize.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/styles/_typography.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18/styles/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/actions/actionCreators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/components/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/components/Comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/components/Main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/components/Photo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/components/PhotoGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/components/Single.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/data/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/data/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/data/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/reducers/comments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/reducers/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/reducers/posts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/reduxstagram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/styles/_animations.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/styles/_normalize.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/styles/_typography.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/19/styles/style.styl" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/.babelrc" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/.eslintrc" afterPath="$PROJECT_DIR$/.eslintrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/client/data/comments.js" afterPath="$PROJECT_DIR$/client/data/comments.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/client/data/config.js" afterPath="$PROJECT_DIR$/client/data/config.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/client/data/posts.js" afterPath="$PROJECT_DIR$/client/data/posts.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/client/reduxstagram.js" afterPath="$PROJECT_DIR$/client/reduxstagram.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/client/styles/_animations.styl" afterPath="$PROJECT_DIR$/client/styles/_animations.styl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/client/styles/_normalize.styl" afterPath="$PROJECT_DIR$/client/styles/_normalize.styl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/client/styles/_typography.styl" afterPath="$PROJECT_DIR$/client/styles/_typography.styl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/client/styles/style.styl" afterPath="$PROJECT_DIR$/client/styles/style.styl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/devServer.js" afterPath="$PROJECT_DIR$/devServer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/webpack.config.dev.js" afterPath="$PROJECT_DIR$/webpack.config.dev.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn-redux/webpack.config.prod.js" afterPath="$PROJECT_DIR$/webpack.config.prod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/actions/actionCreators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/store.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/reduxstagram.js" afterPath="$PROJECT_DIR$/client/reduxstagram.js" />
     </list>
     <ignored path="Learn-Redux-Starter-Files.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -236,10 +28,99 @@
     <favorites_list name="Learn-Redux-Starter-Files" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="reduxstagram.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/reduxstagram.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#139#176#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="store.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/store.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="105" selection-start-line="4" selection-start-column="105" selection-end-line="4" selection-end-column="105" />
+              <folding>
+                <element signature="e#160#205#0" expanded="true" />
+                <element signature="e#341#384#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actionCreators.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/actions/actionCreators.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/components/Main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhotoGrid.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/components/PhotoGrid.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Single.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/components/Single.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client/components/PhotoGrid.js" />
+        <option value="$PROJECT_DIR$/client/components/Single.js" />
+        <option value="$PROJECT_DIR$/client/components/Main.js" />
+        <option value="$PROJECT_DIR$/client/reduxstagram.js" />
+        <option value="$PROJECT_DIR$/client/store.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -294,6 +175,56 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-Redux-Starter-Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-Redux-Starter-Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-Redux-Starter-Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-Redux-Starter-Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-Redux-Starter-Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-Redux-Starter-Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -305,13 +236,14 @@
     <property name="FullScreen" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.Start">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -359,6 +291,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="false" name="Start" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="npm.Start" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -370,33 +312,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1463725938965</updated>
-      <workItem from="1463725940396" duration="305000" />
+      <workItem from="1463725940396" duration="3256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="305000" />
+    <option name="totallyTimeSpent" value="3256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -408,6 +350,104 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/data/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/data/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/data/comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/styles/style.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/PhotoGrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/Single.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/reduxstagram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#139#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="105" selection-start-line="4" selection-start-column="105" selection-end-line="4" selection-end-column="105" />
+          <folding>
+            <element signature="e#160#205#0" expanded="true" />
+            <element signature="e#341#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/actions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/actions/actionCreators.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
