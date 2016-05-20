@@ -23,7 +23,7 @@ export function addComment(postId, author, comment) {
 
 export function removeComment(postId, i) {
     return {
-        type: 'DELETE_COMMENT',
+        type: 'REMOVE_COMMENT',
         postId,
         i
     }
