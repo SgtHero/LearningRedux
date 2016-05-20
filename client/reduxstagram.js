@@ -1,4 +1,5 @@
 import React from 'react';
+
 import { render } from 'react-dom';
 
 // Import css
@@ -9,7 +10,7 @@ import App from './components/App';
 import Single from './components/Single';
 import PhotoGrid from './components/PhotoGrid';
 
-// Import react router deps
+// import react router deps
 import { Router, Route, IndexRoute, browserHistory } from 'react-router';
 import { Provider } from 'react-redux';
 import store, { history } from './store';

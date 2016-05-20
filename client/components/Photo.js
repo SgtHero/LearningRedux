@@ -1,7 +1,3 @@
-/**
- * Created by christianschulz1 on 20.05.16.
- */
-
 import React from 'react';
 import {Link} from 'react-router';
 import CSSTransitionGroup from 'react-addons-css-transition-group';
@@ -28,10 +24,10 @@ const Photo = React.createClass({
                         <button onClick={this.props.increment.bind(null, i)}
                                 className="likes">&hearts; {post.likes}</button>
                         <Link className="button" to={`/view/${post.code}`}>
-                            <span className="comment-count">
-                            <span className="speech-bubble"></span>
-                                {comments[post.code] ? comments[post.code].length : 0 }
-                            </span>
+              <span className="comment-count">
+                <span className="speech-bubble"></span>
+                  {comments[post.code] ? comments[post.code].length : 0 }
+              </span>
                         </Link>
                     </div>
                 </figcaption>
