@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fecdb35-2b00-43c7-9d91-a04ed86743b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/actions/actionCreators.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/store.js" />
+    <list default="true" id="1fecdb35-2b00-43c7-9d91-a04ed86743b4" name="Default" comment="created Components for photogrid and single also created a store">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/PhotoGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Single.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/reduxstagram.js" afterPath="$PROJECT_DIR$/client/reduxstagram.js" />
     </list>
+    <list id="768729ba-e948-402e-a864-81ea80681e25" name="components" comment="" />
     <ignored path="Learn-Redux-Starter-Files.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -308,16 +306,25 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1fecdb35-2b00-43c7-9d91-a04ed86743b4" name="Default" comment="" />
+      <changelist id="768729ba-e948-402e-a864-81ea80681e25" name="components" comment="" />
       <created>1463725938965</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1463725938965</updated>
-      <workItem from="1463725940396" duration="3256000" />
+      <workItem from="1463725940396" duration="3350000" />
     </task>
+    <task id="LOCAL-00001" summary="created Components for photogrid and single also created a store">
+      <created>1463729586581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1463729586581</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3256000" />
+    <option name="totallyTimeSpent" value="3350000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -327,7 +334,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -343,6 +350,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created Components for photogrid and single also created a store" />
+    <option name="LAST_COMMIT_MESSAGE" value="created Components for photogrid and single also created a store" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
